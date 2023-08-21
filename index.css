@@ -512,7 +512,1278 @@ margin: auto;
     color: gray;
 }
 /*Media Querries*/
+@media screen and (min-width:1370px){
+    /*Section 1*/
+.section1-parent{
+    width: 100%;
+    height: 1080px;
+}
+.main-section1{
+    max-width: 1340px;
+}
+.main-header{
+    padding-top: 50px;
+}
+.centre-points{
+    gap: 50px;
+}
+.login-account{
+    display: flex;
+    gap: 24px;
+}
+.hitmarker-logo{
+    width: 175px;
+    height: 40px;
+}
+.sec1-text{
+}
+.font{
+    font-size: 16px;
+}
+.font-sub{
+    font-size: 17px;
+}
+.account-button{
+    border-radius: 5px;
+    padding: 11px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+/*text-img*/
+.boy-img{
+    width: 680px;
+    height: 590px;
+    padding-top: 70px;
+    padding-left: 0px;
+}
+.text-img1{
+    padding-top: 55px;
+}
+.job-play-button{
+    gap: 13px;
+    padding-top: 28px;
+}
+.gaming-esport{
+font-size: 52px;
+font-weight: 900;
+max-width: 660px;
+}
+.active-user{
+    font-size: 15px;
+    font-weight: 400;
+    max-width: 560px;
+    padding-top: 14px;
+    line-height: 32px;
+}
+.play-button{
+    width: 48px;
+    height: 48px;
+    padding-top: 4px;
+}
+.view-job{
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 19px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.button-watch{
+    padding-left: 20px;
+    gap: 8px;
+}
+.watch-video{
+    margin: 0%;
+    padding-top: 18px;
+}
+.job-play-button{
+    gap: 6px;
+    padding-top: 16px;
+}
+.boy-img2{
+    display: none; 
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+.amazon-images{
+    width: 1340px;
+    height: 70px;
+    background: white;
+    padding: 20px;
+    border-radius: 13px;
+    position: relative;
+}
+/*new section*/
+.parent-promote{
+    padding-top: 130px;
+}
+.promote-head{
+    font-weight: 700;
+    font-size: 43px;
+}
+.promote-text{
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 28px;
+}
+/*boxes*/
+.parent-box1{
+    max-width: 1340px;
+    display: grid;
+    grid-template-columns: 418px 418px 418px;
+    grid-template-rows: 200px 200px 200px 200px;
+    grid-column-gap: 40px;
+}
+.social-germany-box{
+    padding-top: 100px;
+}
+.social-germany-box-sub{
+    padding-top: 7px;
+    padding-left: 13px;
+    background:white;
+    border: 0.5px solid rgb(230, 229, 229);
+    border-radius: 10px;
+    padding-bottom: 24px;
+}
+.social-video{
+    font-size: 20px;
+}
+.german-boy{
+    width: 32px;
+    height: 32px;
+    margin: 0%;
+}
+.german-flag{
+    width: 26px;
+    height: 20px;
+    margin: 0%;
+    padding-left: 4px;
+}
+.pipeline-text{
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 8px;
+}
+.germany-text{
+    font-size: 14px;
+    padding-left: 10px;
+}
+.boy-text{
+    display: flex;
+    padding-top: 15px;
+}
+.flag-text{
+    display: flex;
+    padding-top: 15px;
+}
+.hrline{
+    width:380px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 1350px;
+    margin: auto;
+    padding-top: 100px;
+}
+.promot-tag{
+    border-radius: 13px;
+    padding: 28px;
+}
+.promot-head{
+    font-size: 26px;
+    font-weight: 600;
+}
+.promot-text{
+    margin: 0%;
+    padding-top: 14px;
+    font-size: 18px;
+}
+.arrow-main{
+    padding-top: 3px;
+}
+.arrow{
+    border-radius: 70px;
+    width: 42px;
+    height: 42px;
+    padding: 12px;
+}
+/*setion 4*/
+.boy-img-reverse{
+    width: 450px;
+    height: 530px;
+    position: absolute;
+}
+.boy-img-reverse1{
+    width: 450px;
+    height: 470px;
+    position: absolute;
+    padding-top: 60px;
+}
+.boy-img-revers2{
+    width: 110px;
+    height: 110px;
+    padding-top: 5px;
+    padding-left: 315px;
+    position: relative;
+}
+.parent-section5{
+    padding-top:180px ;
+    max-width: 1350px;
+    margin: auto;
+}
+.people{
+    color: black;
+}
+.arr-left{
+    width: 50px;
+    height: 51px;
+    border-radius: 80px;
+    cursor: pointer;
+}
+.arr-right{
+    width: 37px;
+    height: 37px;
+    background: orangered;
+    padding: 6px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.parent-arrows{
+    display: flex;
+    margin: 0%;
+    gap: 20px;
+    padding-top: 6px;
+}
+.people-arrow{
+    display: flex;
+    max-width: 600px;
+    padding-top: 160px;
+    padding-right: 270px;
 
+}
+.people{
+    font-family:'Roboto', sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    margin: 0%;
+}
+.images-people-arrow{
+   display: flex;
+   justify-content: space-between;
+}
+.stars{
+    width: 150px;
+    height: 26px;
+    margin: 0%;
+    padding-top: 20px;
+}
+.darrel{
+    font-size: 32px;
+}
+.darrel-stars{
+    display: flex;
+    gap:470px ;
+    margin: 0%;
+}
+.darrel-ceo-star-txt{
+    padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+}
+.ceo{
+    font-size: 28px;
+    font-weight: 400;
+    padding-top: 16px;
+}
+.star-parragraph{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0%;
+    padding-top: 54px;
+    line-height: 24px;
+}
+.vertical-line{
+    border-left: 12px solid orangered;
+    height: 315px;
+}
+.parent-line-text{
+    display: flex;
+    background:rgb(249, 247, 247);  
+    max-width:900px;
+    margin: auto;
+    padding-right: 35px;
+}
+.main-parent-line-text{
+    padding-left: 410px;
+    padding-top: 40px;
+    position: absolute;
+}
+.dots{
+    width: 260px;
+    height: 180px;
+    padding-top: 240px;
+    padding-left: 335px;
+}
+ /*section6*/
+.section6-parent{
+    max-width: 1350px;
+    margin: auto;
+    padding-top: 160px;
+}
+.hit2-logo{
+    width: 48px;
+    height: 46px;
+    padding-top: 28px;
+}
+.open-account{
+    font-size: 17px;
+    max-width: 300px;
+    padding-top: 18px;
+    line-height: 20px;
+}
+.section6-headings-txt{
+    font-size: 28px;
+}
+.section6-centre-headings{
+    gap: 90px;
+    line-height: 33px;
+}
+.sec6{
+   font-size: 20px;
+   font-family: 'Roboto', sans-serif;
+}
+.play-store-logo{
+    width: 24px;
+    height: 27px;
+    margin: 0%;
+    padding-top: 2px;
+}
+.play-store{
+    display: flex;
+    background: black;
+    border-radius: 24px;
+    padding: 8px;
+    padding-left: 20px;
+}
+.get-it-on{
+    font-size: 9px;
+}
+.available-on{
+    font-size: 9px;
+}
+.google-play-text{
+    font-size: 11px;
+}
+.apple-logo{
+    width: 23px;
+    height: 22px;
+    padding-top: 6px;
+}
+.apple-google{
+    grid-template-columns: 134px 134px;
+    grid-gap: 8px;
+}
+.logo-text{
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.apple-logo-head{
+    width: 6px;
+    height: 7px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    position: absolute;
+}
+.fb-logo{
+    width: 14px;
+    height: 14px;
+    padding: 22px;
+    border:1px solid #FF6810;
+    border-radius: 32px;
+}
+.insta-logo{
+    width: 18px;
+    height: 18px;
+    background: #FF6810;
+    padding: 22px;
+    border-radius: 32px;
+}
+.twitter-logo{
+    width: 15px;
+    height: 13px;
+    padding: 22px;
+    border:1px solid #FF6810;
+    border-radius: 32px;
+}
+.logo-images{
+    display: flex;
+    gap: 24px;
+    padding-top: 20px;
+}   
+/*section 7*/
+.parent-section7{
+    max-width: 1350px;
+    margin: auto;
+    padding-top: 75px;
+}
+.footer{
+    font-size: 18px;
+}
+}
+@media screen and (min-width:1730px) {
+    /*Section 1*/
+.section1-parent{
+    width: 100%;
+    height: 1300px;
+}
+.main-section1{
+    max-width: 1700px;
+}
+.main-header{
+    padding-top: 50px;
+}
+.centre-points{
+    gap: 70px;
+}
+.login-account{
+    display: flex;
+    gap: 24px;
+}
+.hitmarker-logo{
+    width: 175px;
+    height: 40px;
+}
+.font{
+    font-size: 18px;
+}
+.font-sub{
+    font-size: 19px;
+}
+.account-button{
+    border-radius: 5px;
+    padding: 13px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+/*text-img*/
+.boy-img{
+    width: 860px;
+    height: 730px;
+    padding-top: 80px;
+    padding-left: 0px;
+}
+.text-img1{
+    padding-top: 70px;
+}
+.sec1-text{
+    padding-right: 70px;
+}
+.job-play-button{
+    gap: 16px;
+    padding-top: 28px;
+}
+.gaming-esport{
+font-size: 60px;
+font-weight: 900;
+max-width: 760px;
+}
+.active-user{
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 660px;
+    padding-top: 14px;
+    line-height: 32px;
+}
+.play-button{
+    width: 52px;
+    height: 52px;
+    padding-top: 4px;
+}
+.view-job{
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 19px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.button-watch{
+    padding-left: 24px;
+    gap: 8px;
+}
+.watch-video{
+    margin: 0%;
+    font-size: 17px;
+    padding-top: 21px;
+}
+.job-play-button{
+    gap: 6px;
+    padding-top: 20px;
+}
+.boy-img2{
+    display: none; 
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 240px;
+    display: flex;
+    justify-content: center;
+}
+.amazon-images{
+    width: 1650px;
+    height: 90px;
+    background: white;
+    padding: 20px;
+    border-radius: 13px;
+    position: relative;
+}
+/*new section*/
+.parent-promote{
+    padding-top: 150px;
+}
+.promote-head{
+    font-weight: 700;
+    font-size: 47px;
+}
+.promote-text{
+    font-size: 26px;
+    font-weight: 500;
+    padding-top: 28px;
+}
+/*boxes*/
+.parent-box1{
+    max-width: 1685px;
+    display: grid;
+    grid-template-columns: 535px 535px 535px;
+    grid-template-rows: 220px 220px 220px 220px;
+    grid-column-gap: 40px;
+}
+.social-germany-box{
+    padding-top: 120px;
+}
+.social-germany-box-sub{
+    padding-top: 9px;
+    padding-left: 18px;
+    background:white;
+    border: 0.5px solid rgb(230, 229, 229);
+    border-radius: 10px;
+    padding-bottom: 32px;
+}
+.social-video{
+    font-size: 24px;
+}
+.german-boy{
+    width: 37px;
+    height: 37px;
+    margin: 0%;
+}
+.german-flag{
+    width: 30px;
+    height: 24px;
+    margin: 0%;
+    padding-left: 4px;
+}
+.pipeline-text{
+    font-size: 20px;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+.germany-text{
+    font-size: 16px;
+    padding-left: 10px;
+}
+.boy-text{
+    display: flex;
+    padding-top: 15px;
+}
+.flag-text{
+    display: flex;
+    padding-top: 18px;
+}
+.hrline{
+    width:490px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 1690px;
+    margin: auto;
+    padding-top: 120px;
+}
+.promot-tag{
+    border-radius: 16px;
+    padding: 32px;
+}
+.promot-head{
+    font-size: 28px;
+    font-weight: 600;
+}
+.promot-text{
+    margin: 0%;
+    padding-top: 22px;
+    font-size: 20px;
+}
+.arrow-main{
+    padding-top: 3px;
+}
+.arrow{
+    border-radius: 70px;
+    width: 48px;
+    height: 48px;
+    padding: 16px;
+}
+/*setion 4*/
+.boy-img-reverse{
+    width: 600px;
+    height: 640px;
+    position: absolute;
+}
+.boy-img-reverse1{
+    width: 600px;
+    height: 560px;
+    position: absolute;
+    padding-top: 80px;
+}
+.boy-img-revers2{
+    width: 110px;
+    height: 110px;
+    padding-top: 25px;
+    padding-left: 465px;
+    position: relative;
+}
+.parent-section5{
+    padding-top:180px ;
+    max-width: 1680px;
+    margin: auto;
+}
+.people{
+    color: black;
+}
+.arr-left{
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    cursor: pointer;
+}
+.arr-right{
+    width: 45px;
+    height: 45px;
+    background: orangered;
+    padding: 17px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.parent-arrows{
+    display: flex;
+    margin: 0%;
+    gap: 20px;
+    padding-top: 0px;
+}
+.people-arrow{
+    gap: 90px;
+    padding-right: 430px;
+    padding-top: 230px;
+
+}
+.people{
+    font-family:'Roboto', sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    margin: 0%;
+    padding-top: 8px;
+}
+.images-people-arrow{
+   display: flex;
+   justify-content: space-between;
+}
+.stars{
+    width: 180px;
+    height: 29px;
+    margin: 0%;
+    padding-top: 20px;
+}
+.darrel{
+    font-size: 36px;
+}
+.darrel-stars{
+    display: flex;
+    gap:620px ;
+    margin: 0%;
+}
+.darrel-ceo-star-txt{
+    padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+}
+.ceo{
+    font-size: 28px;
+    font-weight: 400;
+    padding-top: 22px;
+}
+.star-parragraph{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0%;
+    max-width: 1100px;
+    padding-top: 69px;
+    line-height: 28px;
+}
+.vertical-line{
+    border-left: 12px solid orangered;
+    height: 355px;
+}
+.parent-line-text{
+    display: flex;
+    background:rgb(249, 247, 247);  
+    max-width:1095px;
+    margin: auto;
+    padding-right: 35px;
+}
+.main-parent-line-text{
+    padding-left: 550px;
+    padding-top: 35px;
+    position: absolute;
+}
+.dots{
+    width: 320px;
+    height: 220px;
+    padding-top: 245px;
+    padding-left: 455px;
+}
+ /*section6*/
+.section6-parent{
+    max-width: 1690px;
+    margin: auto;
+    padding-top: 160px;
+}
+.hit2-logo{
+    width: 54px;
+    height: 52px;
+    padding-top: 28px;
+}
+.open-account{
+    font-size: 20px;
+    max-width: 320px;
+    padding-top: 18px;
+    line-height: 24px;
+}
+.section6-headings-txt{
+    font-size: 30px;
+}
+.section6-centre-headings{
+    gap: 120px;
+    line-height: 36px;
+}
+.sec6{
+   font-size: 22px;
+   font-family: 'Roboto', sans-serif;
+}
+.play-store-logo{
+    width: 22px;
+    height: 29px;
+    margin: 0%;
+    padding-top: 2px;
+}
+.play-store{
+    display: flex;
+    background: black;
+    border-radius: 24px;
+    padding: 10px;
+    padding-left: 20px;
+}
+.get-it-on{
+    font-size: 9px;
+}
+.available-on{
+    font-size: 9px;
+}
+.google-play-text{
+    font-size: 12px;
+}
+.apple-logo{
+    width: 25px;
+    height: 24px;
+    padding-top: 6px;
+}
+.apple-google{
+    grid-template-columns: 144px 144px;
+    grid-gap: 10px;
+}
+.logo-text{
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.apple-logo-head{
+    width: 6px;
+    height: 7px;
+    padding-bottom: 11px;
+    padding-left: 12px;
+    position: absolute;
+}
+.fb-logo{
+    width: 16px;
+    height: 16px;
+    padding: 26px;
+    border:1px solid #FF6810;
+    border-radius: 36px;
+}
+.insta-logo{
+    width: 20px;
+    height: 20px;
+    background: #FF6810;
+    padding: 26px;
+    border-radius: 36px;
+}
+.twitter-logo{
+    width: 17px;
+    height: 15px;
+    padding: 26px;
+    border:1px solid #FF6810;
+    border-radius: 36px;
+}
+.logo-images{
+    display: flex;
+    gap: 24px;
+    padding-top: 20px;
+}   
+/*section 7*/
+.parent-section7{
+    max-width: 1680px;
+    margin: auto;
+    padding-top: 75px;
+}
+.footer{
+    font-size: 22px;
+    padding-top: 8px;
+}
+}
+@media screen and (min-width:2130px) {
+/*Section 1*/
+.section1-parent{
+    width: 100%;
+    height: 1450px;
+}
+.main-section1{
+    max-width: 2120px;
+}
+.main-header{
+    padding-top: 50px;
+}
+.centre-points{
+    gap: 110px;
+}
+.login-account{
+    display: flex;
+    gap: 26px;
+}
+.hitmarker-logo{
+    width: 190px;
+    height: 45px;
+}
+.font{
+    font-size: 21px;
+}
+.font-sub{
+    font-size: 22px;
+}
+.account-button{
+    border-radius: 5px;
+    padding: 15px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+/*text-img*/
+.boy-img{
+    width: 1020px;
+    height: 790px;
+    padding-top: 100px;
+    padding-left: 0px;
+}
+.text-img1{
+    padding-top: 70px;
+}
+.sec1-text{
+    padding-right: 120px;
+}
+.job-play-button{
+    gap: 16px;
+    padding-top: 28px;
+}
+.gaming-esport{
+font-size: 66px;
+font-weight: 900;
+max-width: 960px;
+}
+.active-user{
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 660px;
+    padding-top: 18px;
+    line-height: 32px;
+}
+.play-button{
+    width: 62px;
+    height: 62px;
+    padding-top: 4px;
+}
+.view-job{
+    font-size: 22px;
+    border-radius: 7px;
+    padding: 22px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.button-watch{
+    padding-left: 28px;
+    gap: 10px;
+}
+.watch-video{
+    margin: 0%;
+    font-size: 19px;
+    padding-top: 23px;
+}
+.job-play-button{
+    gap: 6px;
+    padding-top: 20px;
+}
+.boy-img2{
+    display: none; 
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 290px;
+    display: flex;
+    justify-content: center;
+}
+.amazon-images{
+    width: 2060px;
+    height: 100px;
+    background: white;
+    padding: 20px;
+    border-radius: 13px;
+    position: relative;
+}
+/*new section*/
+.parent-promote{
+    padding-top: 180px;
+}
+.promote-head{
+    font-weight: 700;
+    font-size: 52px;
+}
+.promote-text{
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 32px;
+}
+/*boxes*/
+.parent-box1{
+    max-width: 2080px;
+    display: grid;
+    grid-template-columns: 669px 669px 669px;
+    grid-template-rows: 240px 240px 240px 240px;
+    grid-column-gap: 40px;
+}
+.social-germany-box{
+    padding-top: 120px;
+}
+.social-germany-box-sub{
+    padding-top: 9px;
+    padding-left: 18px;
+    background:white;
+    border: 0.5px solid rgb(230, 229, 229);
+    border-radius: 10px;
+    padding-bottom: 32px;
+}
+.social-video{
+    font-size: 24px;
+}
+.german-boy{
+    width: 37px;
+    height: 37px;
+    margin: 0%;
+}
+.german-flag{
+    width: 30px;
+    height: 24px;
+    margin: 0%;
+    padding-left: 4px;
+}
+.pipeline-text{
+    font-size: 20px;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+.germany-text{
+    font-size: 16px;
+    padding-left: 10px;
+}
+.boy-text{
+    display: flex;
+    padding-top: 15px;
+}
+.flag-text{
+    display: flex;
+    padding-top: 18px;
+}
+.hrline{
+    width:620px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 2090px;
+    margin: auto;
+    padding-top: 120px;
+}
+.promot-tag{
+    border-radius: 16px;
+    padding: 38px;
+}
+.promot-head{
+    font-size: 32px;
+    font-weight: 600;
+}
+.promot-text{
+    margin: 0%;
+    padding-top: 26px;
+    font-size: 22px;
+}
+.arrow-main{
+    padding-top: 2px;
+}
+.arrow{
+    border-radius: 70px;
+    width: 52px;
+    height: 52px;
+    padding: 19px;
+}
+/*setion 4*/
+.boy-img-reverse{
+    width: 750px;
+    height: 760px;
+    position: absolute;
+}
+.boy-img-reverse1{
+    width: 750px;
+    height: 660px;
+    position: absolute;
+    padding-top: 100px;
+}
+.boy-img-revers2{
+    width: 130px;
+    height: 130px;
+    padding-top: 30px;
+    padding-left: 590px;
+    position: relative;
+}
+.parent-section5{
+    padding-top:180px ;
+    max-width: 2080px;
+    margin: auto;
+}
+.people{
+    color: black;
+}
+.arr-left{
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    cursor: pointer;
+}
+.arr-right{
+    width: 45px;
+    height: 45px;
+    background: orangered;
+    padding: 17px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.parent-arrows{
+    display: flex;
+    margin: 0%;
+    gap: 20px;
+    padding-top: 0px;
+}
+.people-arrow{
+    padding-top: 290px;
+    padding-right: 650px;
+    gap:40px;
+
+}
+.people{
+    font-family:'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0%;
+    padding-top: 8px;
+}
+.images-people-arrow{
+   display: flex;
+   justify-content: space-between;
+}
+.stars{
+    width: 250px;
+    height: 33px;
+    margin: 0%;
+    padding-top: 20px;
+}
+.darrel{
+    font-size: 44px;
+}
+.darrel-stars{
+    display: flex;
+    gap:755px ;
+    margin: 0%;
+}
+.darrel-ceo-star-txt{
+    padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+}
+.ceo{
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 22px;
+}
+.star-parragraph{
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0%;
+    max-width: 1270px;
+    padding-top: 69px;
+    line-height: 28px;
+}
+.vertical-line{
+    border-left: 12px solid orangered;
+    height: 395px;
+}
+.parent-line-text{
+    display: flex;
+    background:rgb(249, 247, 247);  
+    max-width:1695px;
+    margin: auto;
+    padding-right: 35px;
+}
+.main-parent-line-text{
+    padding-left: 700px;
+    padding-top: 125px;
+    position: absolute;
+}
+.dots{
+    width: 380px;
+    height: 240px;
+    padding-top: 365px;
+    padding-left: 590px;
+}
+ /*section6*/
+.section6-parent{
+    max-width: 2090px;
+    margin: auto;
+    padding-top: 180px;
+}
+.hit2-logo{
+    width: 60px;
+    height: 58px;
+    padding-top: 28px;
+}
+.open-account{
+    font-size: 24px;
+    max-width: 390px;
+    padding-top: 18px;
+    line-height: 24px;
+}
+.section6-headings-txt{
+    font-size: 36px;
+}
+.section6-centre-headings{
+    gap: 120px;
+    line-height: 36px;
+}
+.sec6{
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+}
+.play-store-logo{
+    width: 25px;
+    height: 31px;
+    margin: 0%;
+    padding-top: 2px;
+}
+.play-store{
+    display: flex;
+    background: black;
+    border-radius: 24px;
+    padding: 13px;
+    padding-left: 22px;
+}
+.get-it-on{
+    font-size: 9px;
+}
+.available-on{
+    font-size: 9px;
+}
+.google-play-text{
+    font-size: 12px;
+}
+.apple-logo{
+    width: 25px;
+    height: 24px;
+    padding-top: 6px;
+}
+.apple-google{
+    grid-template-columns: 154px 154px;
+    grid-gap: 10px;
+}
+.logo-text{
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.apple-logo-head{
+    width: 6px;
+    height: 7px;
+    padding-bottom: 11px;
+    padding-left: 12px;
+    position: absolute;
+}
+.fb-logo{
+    width: 16px;
+    height: 16px;
+    padding: 30px;
+    border:1px solid #FF6810;
+    border-radius: 40px;
+}
+.insta-logo{
+    width: 20px;
+    height: 20px;
+    background: #FF6810;
+    padding: 30px;
+    border-radius: 40px;
+}
+.twitter-logo{
+    width: 17px;
+    height: 15px;
+    padding: 30px;
+    border:1px solid #FF6810;
+    border-radius: 40px;
+}
+.logo-images{
+    display: flex;
+    gap: 24px;
+    padding-top: 26px;
+}   
+/*section 7*/
+.parent-section7{
+    max-width: 2080px;
+    margin: auto;
+    padding-top: 85px;
+}
+.footer{
+    font-size: 26px;
+    padding-top: 12px;
+} 
+    
+}
 @media screen and (max-width:1230px) {
     .section6-parent{
         max-width: 1080px;
