@@ -1,0 +1,2102 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+.color{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+/*Section 1*/
+.section1-parent{
+    background-image: url(section1\ back.png);
+    width: 100%;
+    height: 930px;
+}
+.main-section1{
+    max-width: 1050px;
+    margin: auto;
+}
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.centre-points{
+    display: flex;
+    gap: 50px;
+}
+.login-account{
+    display: flex;
+    gap: 20px;
+}
+.hitmarker-logo{
+    width: 160px;
+    height: 30px;
+}
+.font{
+    font-size: 14px;
+    margin: auto;
+    cursor: pointer;
+}
+.font-sub{
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
+.account-button{
+    background: #FF6810;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/*text-img*/
+.sec1-text{
+    margin:auto;
+}
+.boy-img{
+    width: 540px;
+    height: 540px;
+    padding-top: 50px;
+    padding-left: 35px;
+}
+.text-img1{
+    display: flex;
+    padding-top: 50px;
+}
+.job-play-button{
+    display: flex;
+    gap: 10px;
+    padding-top: 20px;
+}
+.gaming-esport{
+font-size: 48px;
+font-weight: 600;
+max-width: 550px;
+margin: auto;
+}
+.active-user{
+    font-size: 13px;
+    font-weight: 400;
+    max-width: 430px;
+    padding-top: 12px;
+    line-height: 30px;
+}
+.play-button{
+    width: 41px;
+    height: 41px;
+    padding-top: 2px;
+}
+.view-job{
+    background: #FF6810;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 17px;
+    padding-left: 50px;
+    padding-right: 50px;
+    cursor: pointer;
+}
+.button-watch{
+    display: flex;
+    padding-left: 20px;
+    gap: 8px;
+}
+.watch-video{
+    margin: 0%;
+    padding-top: 13px;
+}
+.job-play-button{
+    gap: 6px;
+    padding-top: 16px;
+}
+.boy-img2{
+    display: none; 
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 135px;
+    display: flex;
+    justify-content: center;
+}
+.amazon-images{
+    width: 1150px;
+    height: 70px;
+    background: white;
+    padding: 20px;
+    border-radius: 13px;
+    position: relative;
+}
+/*new section*/
+.parent-box1{
+    max-width: 1050px;
+    display: grid;
+    grid-template-columns: 330px 330px 330px;
+    grid-template-rows: 200px 200px 200px 200px;
+    grid-column-gap: 30px;
+}
+.parent-promote{
+    padding-top: 100px;
+}
+.promote-head{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin: auto;
+}
+.promote-text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    font-weight: 500;
+    margin: auto;
+    padding-top: 25px;
+}
+.social-germany-box{
+    padding-top: 90px;
+}
+.social-germany-box-sub{
+    padding-top: 6px;
+    padding-left: 13px;
+    background:white;
+    border: 0.5px solid rgb(230, 229, 229);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.parent-box1{
+    margin: auto;
+}
+.social-video{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.german-boy{
+    width: 28px;
+    height: 28px;
+    margin: 0%;
+}
+.german-flag{
+    width: 22px;
+    height: 16px;
+    margin: 0%;
+    padding-left: 4px;
+}
+.pipeline-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    color: black;
+    margin: 0%;
+    padding-top: 5px;
+    padding-left: 8px;
+}
+.germany-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    margin: 0%;
+    padding-left: 10px;
+}
+.boy-text{
+    display: flex;
+    padding-top: 15px;
+}
+.flag-text{
+    display: flex;
+    padding-top: 15px;
+}
+.hrline{
+    width:300px;
+    border: 1 solid #fffbf6;
+    text-align:left;
+    margin-left:0%;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 1050px;
+    margin: auto;
+    padding-top: 80px;
+}
+.promot-tag{
+    display: flex;
+    justify-content: space-between;
+    background: #FF6810;
+    border-radius: 10px;
+    padding: 24px;
+}
+.text-arrow{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.promot-head{
+    margin: 0%;
+    font-size: 24px;
+    font-weight: 600;
+}
+.promot-text{
+    margin: 0%;
+    padding-top: 14px;
+    font-size: 16px;
+}
+.arrow-main{
+    padding-top: 5px;
+    cursor: pointer;
+}
+.arrow{
+    background: white;
+    border-radius: 70px;
+    width: 37px;
+    height: 37px;
+    padding: 7px;
+}
+/*setion 4*/
+.boy-img-reverse{
+    width: 400px;
+    height: 490px;
+    position: absolute;
+}
+.boy-img-reverse1{
+    width: 400px;
+    height: 430px;
+    position: absolute;
+    padding-top: 60px;
+}
+.boy-img-revers2{
+    width: 90px;
+    height: 90px;
+    padding-top: 10px;
+    padding-left: 285px;
+    position: relative;
+}
+.parent-section5{
+    padding-top:130px ;
+    max-width: 1050px;
+    margin: auto;
+}
+.people{
+    color: black;
+}
+.arr-left{
+    width: 50px;
+    height: 51px;
+    border-radius: 80px;
+    cursor: pointer;
+}
+.arr-right{
+    width: 37px;
+    height: 37px;
+    background: orangered;
+    padding: 6px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.parent-arrows{
+    display: flex;
+    margin: 0%;
+    gap: 20px;
+    padding-top: 6px;
+}
+.people-arrow{
+    display: flex;
+    max-width: 600px;
+    gap: 155px;
+    padding-top: 160px;
+
+}
+.people{
+    font-family:'Roboto', sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    margin: 0%;
+}
+.images-people-arrow{
+   display: flex;
+   justify-content: space-between;
+}
+.stars{
+    width: 141px;
+    height: 20px;
+    margin: 0%;
+    padding-top: 20px;
+}
+.darrel{
+    font-size: 28px;
+    font-family:'Roboto', sans-serif ;
+    font-weight: 600;
+    margin: 0%;
+}
+.darrel-stars{
+    display: flex;
+    gap:270px ;
+    margin: 0%;
+}
+.darrel-ceo-star-txt{
+    padding-top: 50px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+}
+.ceo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0%;
+    padding-top: 8px;
+}
+.star-parragraph{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0%;
+    padding-top: 34px;
+    line-height: 18px;
+}
+.vertical-line{
+    border-left: 12px solid orangered;
+    height: 275px;
+}
+.parent-line-text{
+    display: flex;
+    background:rgb(249, 247, 247);  
+    max-width:650px;
+    margin: auto;
+    padding-right: 35px;
+}
+.main-parent-line-text{
+    padding-left: 360px;
+    padding-top: 40px;
+    position: absolute;
+}
+.dots{
+    width: 260px;
+    height: 180px;
+    padding-top: 202px;
+    padding-left: 280px;
+}
+/*section6*/
+.section6-parent{
+    max-width: 1150px;
+    margin: auto;
+    padding-top: 140px;
+}
+.hit2-logo{
+    width: 41px;
+    height: 39px;
+    margin: 0%;
+    padding-top: 20px;
+}
+.open-account{
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    max-width: 230px;
+    padding-top: 18px;
+    line-height: 20px;
+}
+.section6-headings-txt{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+.section6-headings{
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+}
+.section6-centre-headings{
+    display: flex;
+    gap: 90px;
+    line-height: 33px;
+}
+.sec6{
+   font-size: 18px;
+   font-family: 'Roboto', sans-serif;
+}
+.play-store-logo{
+    width: 21px;
+    height: 24px;
+    margin: 0%;
+    padding-top: 2px;
+}
+.play-store{
+    display: flex;
+    background: black;
+    border-radius: 24px;
+    padding: 6px;
+    padding-left: 17px;
+}
+.get-it-on{
+    font-size: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 0%;
+}
+.available-on{
+    font-size: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 0%;
+}
+.google-play-text{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: 0%;
+}
+.apple-logo{
+    width: 20px;
+    height: 19px;
+    padding-top: 6px;
+}
+.apple-google{
+    display: grid;
+    grid-template-columns: 124px 124px;
+    grid-gap: 8px;
+}
+.logo-text{
+    padding-left: 6px;
+    padding-top: 3px;
+}
+.apple-full-img{
+    display: flex;
+}
+.apple-logo-head{
+    width: 5px;
+    height: 5.5px;
+    padding-bottom: 13px;
+    padding-left: 10px;
+    position: absolute;
+}
+.fb-logo{
+    width: 14px;
+    height: 14px;
+    padding: 20px;
+    border:1px solid #FF6810;
+    border-radius: 28px;
+}
+.insta-logo{
+    width: 18px;
+    height: 18px;
+    background: #FF6810;
+    padding: 20px;
+    border-radius: 30px;
+}
+.twitter-logo{
+    width: 15px;
+    height: 13px;
+    padding: 20px;
+    border:1px solid #FF6810;
+    border-radius: 30px;
+}
+.logo-images{
+    display: flex;
+    gap: 24px;
+    padding-top: 20px;
+}
+/*sECTIOn 7*/
+.parent-section7{
+    max-width: 1150px;
+    margin: auto;
+    padding-top: 60px;
+}
+.footer{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+/*Media Querries*/
+
+@media screen and (max-width:1230px) {
+    .section6-parent{
+        max-width: 1080px;
+        margin: auto;
+        padding-top: 140px;
+    }
+    /*sECTIOn 7*/
+.parent-section7{
+    max-width: 1080px;
+    margin: auto;
+    padding-top: 60px;
+}
+.footer{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+    
+}
+@media screen and (max-width:1100px) {
+    /*sECTIOn 7*/
+    .parent-section7{
+        max-width: 860px;
+        margin: auto;
+        padding-top: 60px;
+    }
+    .footer{
+        text-align: center;
+        font-size: 16px;
+        font-family: 'Roboto', sans-serif;
+        color: gray;
+    }
+    /*section6*/
+.section6-parent{
+    max-width: 860px;
+    padding-top: 110px;
+}
+.hit2-logo{
+    width: 37px;
+    height: 36px;
+    padding-top: 24px;
+}
+.open-account{
+    font-size: 12px;
+    max-width: 200px;
+    padding-top: 16px;
+    line-height: 18px;
+}
+.section6-headings-txt{
+    font-size: 22px;
+    font-weight: 600;
+}
+.section6-centre-headings{
+    gap: 50px;
+    line-height: 30px;
+}
+.sec6{
+   font-size: 14px;
+}
+.play-store-logo{
+    width: 19px;
+    height: 22px;
+    padding-top: 3px;
+}
+.play-store{
+    border-radius: 20px;
+    padding: 6px;
+    padding-left: 16px;
+}
+.get-it-on{
+    font-size: 7px;
+}
+.available-on{
+    font-size: 7px;
+}
+.google-play-text{
+    font-size: 10px;
+}
+.apple-logo{
+    width: 18px;
+    height: 17px;
+    padding-top: 6px;
+}
+.apple-google{
+    display: grid;
+    grid-template-columns: 115px 115px;
+    grid-gap: 7px;
+}
+.logo-text{
+    padding-left: 6px;
+    padding-top: 3px;
+}
+.apple-logo-head{
+    width: 5px;
+    height: 5.5px;
+    padding-bottom: 13px;
+    padding-left: 10px;
+}
+.fb-logo{
+    width: 14px;
+    height: 14px;
+    padding: 14px;
+    border:1px solid #FF6810;
+    border-radius: 28px;
+}
+.insta-logo{
+    width: 18px;
+    height: 18px;
+    background: #FF6810;
+    padding: 14px;
+    border-radius: 30px;
+}
+.twitter-logo{
+    width: 15px;
+    height: 13px;
+    padding: 14px;
+    border:1px solid #FF6810;
+    border-radius: 30px;
+}
+.logo-images{
+    display: flex;
+    gap: 18px;
+    padding-top: 16px;
+}
+    /*Section 5 media querries*/
+    .parent-section5{
+        padding-top:130px;
+        max-width: 800px;
+        margin: auto;
+    }
+    .boy-img-reverse{
+        width: 350px;
+        height: 490px;
+    }
+    .boy-img-reverse1{
+        width: 340px;
+        height: 430px;
+        padding-top: 60px;
+    }
+    .boy-img-revers2{
+        width: 70px;
+        height: 70px;
+        padding-top: 23px;
+        padding-left: 255px;
+    }
+    .people{
+        font-size: 30px;
+        font-weight: 700;
+        padding-left: 26px;
+    }
+    .people-arrow{
+        display: flex;
+        max-width: 600px;
+        gap: 95px;
+        padding-top: 160px;
+    
+    }
+    .parent-arrows{
+        display: flex;
+        margin: 0%;
+        gap: 14px;
+        padding-top: 4px;
+    }
+    .arr-left{
+        width: 45px;
+        height: 46px;
+        border-radius: 80px;
+    }
+    .arr-right{
+        width: 32px;
+        height: 32px;
+        background: orangered;
+        padding: 6px;
+        border-radius: 30px;
+    }
+    .parent-line-text{
+        max-width:465px;
+        padding-right: 35px;
+    }
+    .main-parent-line-text{
+        padding-left: 310px;
+        padding-top: 45px;
+    }
+    .vertical-line{
+        border-left: 12px solid orangered;
+        height: 275px;
+    }
+    .dots{
+        width: 240px;
+        height: 160px;
+        padding-top: 220px;
+        padding-left: 240px;
+    }
+    .stars{
+        width: 130px;
+        height: 18px;
+        margin: 0%;
+        padding-top: 16px;
+    }
+    .darrel{
+        font-size: 24px;
+        font-family:'Roboto', sans-serif ;
+        font-weight: 500;
+        margin: 0%;
+    }
+    .darrel-stars{
+        display: flex;
+        margin: 0%;
+        gap: 130px;
+    }
+    .darrel-ceo-star-txt{
+        padding-top: 40px;
+        padding-bottom: 28px;
+        padding-left: 35px;
+    }
+    .ceo{
+        font-size: 20px;
+        font-weight: 400;
+        margin: 0%;
+        padding-top: 8px;
+    }
+    .star-parragraph{
+        font-size: 13px;
+        max-width: 400px;
+        font-weight: 400;
+        padding-top: 34px;
+        line-height: 18px;
+    }
+    
+    .parent-section5{
+        padding-top:90px ;
+    }
+    
+/*1st section header*/
+    .section1-parent{
+        height: 830px;
+    }
+    .main-section1{
+        max-width: 830px;
+        margin: auto;
+    }
+    .font{
+        font-size: 12px;
+    }
+    .centre-points{
+        gap: 40px;
+    }
+    .font-sub{
+        font-size: 14px;
+    }
+    .hitmarker-logo{
+        width: 150px;
+        height: 30px;
+    }
+    .account-button{
+        padding: 10px;
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .main-header{
+        padding-top: 40px;
+    }
+/**/
+.boy-img{
+    width: 480px;
+    height: 460px;
+    padding-top: 40px;
+    padding-left: 55px;
+}
+.gaming-esport{
+    font-size: 32px;
+    max-width: 300px;
+    margin: 0%;
+    }
+.active-user{
+        font-size: 10px;
+        max-width: 290px;
+        padding-top: 13px;
+        line-height: 26px;
+    }
+.view-job{
+        font-size: 13px;
+        padding: 14px;
+        padding-left: 44px;
+        padding-right: 44px;
+    }
+.button-watch{
+        padding-left: 16px;
+        gap: 7px;
+    }
+.watch-video{
+    font-size: 10px;
+}
+.sec1-text{
+    padding-top: 100px;
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 153px;
+}
+.amazon-images{
+    width: 790px;
+    height: 40px;
+    padding: 20px;
+}
+/**/
+.parent-box1{
+    margin: auto;
+    max-width: 790px;
+    display: grid;
+    grid-template-columns: 380px 380px ;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px;
+    grid-column-gap: 30px;
+}
+.promote-text{
+    font-size: 14px;
+}
+.promote-head{
+    font-size: 36px;
+}
+.social-germany-box{
+    padding-top: 60px;
+}
+.parent-promote{
+    padding-top: 90px;
+}
+.hrline{
+    width: 350px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 795px;
+    padding-top: 70px;
+}
+.promot-tag{
+    padding: 24px;
+}
+.promot-head{
+    font-size: 22px;
+    font-weight: 500;
+}
+.promot-text{
+    padding-top: 12px;
+    font-size: 15px;
+}
+.arrow-main{
+    padding-top: 5px;
+}
+.arrow{
+    width: 37px;
+    height: 37px;
+    padding: 7px;
+}
+}
+@media screen and (max-width:880px) {
+    /*sECTIOn 7*/
+    .parent-section7{
+        max-width: 645px;
+        margin: auto;
+        padding-top: 60px;
+    }
+    .footer{
+        text-align: center;
+        font-size: 16px;
+        font-family: 'Roboto', sans-serif;
+        color: gray;
+    }
+    /*section6*/
+.section6-parent{
+    max-width: 645px;
+    padding-top: 80px;
+}
+.hit2-logo{
+    width: 32px;
+    height: 30px;
+    padding-top: 24px;
+}
+.open-account{
+    font-size: 9px;
+    max-width: 160px;
+    padding-top: 12px;
+    line-height: 12px;
+}
+.section6-headings-txt{
+    font-size: 17px;
+    font-weight: 600;
+}
+.section6-centre-headings{
+    gap: 30px;
+    line-height: 20px;
+}
+.sec6{
+   font-size: 12px;
+}
+.play-store-logo{
+    width: 15px;
+    height: 18px;
+    padding-top: 3px;
+}
+.play-store{
+    border-radius: 20px;
+    padding: 3px;
+    padding-left: 12px;
+}
+.get-it-on{
+    font-size: 7px;
+}
+.available-on{
+    font-size: 7px;
+}
+.google-play-text{
+    font-size: 8px;
+}
+.apple-logo{
+    width: 14px;
+    height: 13px;
+    padding-top: 6px;
+}
+.apple-google{
+    display: grid;
+    grid-template-columns: 90px 90px;
+    grid-gap: 5px;
+}
+.logo-text{
+    padding-left: 4px;
+    padding-top: 2px;
+}
+.apple-logo-head{
+    width: 5px;
+    height: 5.5px;
+    padding-bottom: 13px;
+    padding-left: 6px;
+}
+.fb-logo{
+    width: 14px;
+    height: 14px;
+    padding: 10px;
+    border:1px solid #FF6810;
+    border-radius: 28px;
+}
+.insta-logo{
+    width: 18px;
+    height: 18px;
+    background: #FF6810;
+    padding: 10px;
+    border-radius: 30px;
+}
+.twitter-logo{
+    width: 15px;
+    height: 13px;
+    padding: 10px;
+    border:1px solid #FF6810;
+    border-radius: 30px;
+}
+.logo-images{
+    gap: 10px;
+    padding-top: 8px;
+}
+    /*Section 5 media querries*/
+    .parent-section5{
+        padding-top:100px;
+        max-width: 600px;
+        margin: auto;
+    }
+    .boy-img-reverse{
+        width: 280px;
+        height: 370px;
+    }
+    .boy-img-reverse1{
+        width: 270px;
+        height: 310px;
+        padding-top: 60px;
+    }
+    .boy-img-revers2{
+        width: 70px;
+        height: 75px;
+        padding-top: 18px;
+        padding-left: 185px;
+    }
+    .people{
+        font-size: 20px;
+        font-weight: 700;
+        padding-left: 26px;
+        padding-right:70px ;
+    }
+    .people-arrow{
+        display: flex;
+        max-width: 600px;
+        gap: 0px;
+        padding-top: 140px;
+    
+    }
+    .parent-arrows{
+        display: flex;
+        margin: 0%;
+        gap: 10px;
+        padding-top: 0px;
+    }
+    .arr-left{
+        width: 35px;
+        height: 36px;
+        border-radius: 80px;
+    }
+    .arr-right{
+        width: 22px;
+        height: 22px;
+        background: orangered;
+        padding: 6px;
+        border-radius: 30px;
+    }
+    .parent-line-text{
+        max-width:465px;
+        padding-right: 35px;
+    }
+    .main-parent-line-text{
+        padding-left: 245px;
+        padding-top: 17px;
+    }
+    .vertical-line{
+        border-left: 12px solid orangered;
+        height: 210px;
+    }
+    .dots{
+        width: 200px;
+        height: 110px;
+        padding-top: 155px;
+        padding-left: 190px;
+    }
+    .stars{
+        width: 80px;
+        height: 16px;
+        margin: 0%;
+        padding-top: 9px;
+        padding-left: 16px;
+    }
+    .darrel{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .darrel-stars{
+        margin: 0%;
+        gap: 70px;
+    }
+    .darrel-ceo-star-txt{
+        padding-top: 25px;
+        padding-bottom: 24px;
+        padding-left: 20px;
+    }
+    .ceo{
+        font-size: 14px;
+        font-weight: 400;
+        margin: 0%;
+        padding-top: 10px;
+    }
+    .star-parragraph{
+        font-size: 9px;
+        max-width: 266px;
+        font-weight: 400;
+        padding-top: 34px;
+        line-height: 11px;
+    }
+    .parent-section5{
+        padding-top:80px ;
+    }
+    /**/
+    .section1-parent{
+        height: 595px;
+    }
+    .main-section1{
+        max-width: 600px;
+        margin: auto;
+    }
+    .font{
+        font-size: 10px;
+    }
+    .font-sub{
+        font-size: 12px;
+    }
+    .account-button{
+        padding: 7px;
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+    .centre-points{
+        gap: 25px;
+    }
+    .hitmarker-logo{
+        width: 125px;
+        height: 27px;
+    } 
+    .main-header{
+        padding-top: 30px;
+    } 
+/**/
+.boy-img{
+    width: 280px;
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 55px;
+    margin: 0%;
+}
+.gaming-esport{
+    font-size: 28px;
+    max-width: 260px;
+    margin: 0%;
+    }
+.active-user{
+        font-size: 9px;
+        max-width: 290px;
+        padding-top: 10px;
+        line-height: 16px;
+    }
+.view-job{
+        font-size: 10px;
+        padding: 10px;
+        padding-left: 27px;
+        padding-right: 27px;
+    }
+.button-watch{
+        padding-left: 14px;
+        gap: 7px;
+    }
+.watch-video{
+    font-size: 7px;
+    margin: 0%;
+    padding-top: 9px;
+}
+.sec1-text{
+    padding-top: 90px;
+}    
+.job-play-button{
+    gap: 2px;
+    padding-top: 10px;
+}
+.play-button{
+    width: 30px;
+    height: 30px;
+    padding-top: 1px;
+}    
+.text-img1{
+    padding-top: 30px;
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 120px;
+}
+.amazon-images{
+    width: 555px;
+    height: 35px;
+    padding: 20px;
+}
+/**/
+.parent-box1{
+    margin: auto;
+    max-width: 600px;
+    display: grid;
+    grid-template-columns: 290px 290px ;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px;
+    grid-column-gap: 20px;
+}
+.promote-text{
+    font-size: 11px;
+}
+.promote-head{
+    font-size: 34px;
+}
+.hrline{
+    width:260px;
+    text-align:left;
+    margin-left:0
+}
+.social-germany-box{
+    padding-top: 50px;
+}
+.parent-promote{
+    padding-top: 75px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 600px;
+    padding-top: 50px;
+}
+.promot-tag{
+    padding: 18px;
+}
+.promot-head{
+    font-size: 21px;
+    font-weight: 400;
+}
+.promot-text{
+    padding-top: 12px;
+    font-size: 11px;
+}
+.arrow-main{
+    padding-top: px;
+}
+.arrow{
+    width: 33px;
+    height: 33px;
+    padding: 6px;
+}
+}
+@media screen and (max-width:660px) {
+       /*sECTIOn 7*/
+       .parent-section7{
+        max-width: 360px;
+        margin: auto;
+        padding-top: 40px;
+    }
+    .footer{
+        text-align: center;
+        font-size: 14px;
+        font-family: 'Roboto', sans-serif;
+        color: gray;
+    }
+    /*section6*/
+    .hitlogo-openacc{
+        display: none;
+    }
+    .section6-headings{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section6-parent{
+        padding-top: 40px;
+        max-width: 450;
+    }
+    .section6-centre-headings{
+        gap: 60px;
+        line-height: 20px;
+    }
+    .discover{
+        text-align: center;
+        font-size: 20px;
+    }
+    .play-store-logo{
+        width: 20px;
+        height: 23px;
+        padding-top: 3px;
+    }
+    .play-store{
+        border-radius: 20px;
+        padding: 4px;
+        padding-left: 12px;
+    }
+    .get-it-on{
+        font-size: 6px;
+
+    }
+    .available-on{
+        font-size: 7px;
+    }
+    .google-play-text{
+        font-size: 10px;
+    }
+    .apple-logo{
+        width: 19px;
+        height: 18px;
+        padding-top: 6px;
+    }
+    .apple-google{
+        display: grid;
+        grid-template-columns: 110px 110px;
+        grid-gap: 10px;
+    }
+    .logo-text{
+        padding-left: 4px;
+        padding-top: 4px;
+    }
+    .apple-logo-head{
+        width: 6px;
+        height: 6px;
+        padding-bottom: 13px;
+        padding-left: 9px;
+    }
+    .fb-logo{
+        width: 14px;
+        height: 14px;
+        padding: 16px;
+        border:1px solid #FF6810;
+        border-radius: 28px;
+    }
+    .insta-logo{
+        width: 18px;
+        height: 18px;
+        background: #FF6810;
+        padding: 16px;
+        border-radius: 30px;
+    }
+    .twitter-logo{
+        width: 15px;
+        height: 13px;
+        padding: 16px;
+        border:1px solid #FF6810;
+        border-radius: 30px;
+    }
+    .logo-images{
+        gap: 10px;
+        padding-top: 20px;
+        justify-content: center;
+        }
+
+    /*section 5*/
+    .images-people-arrow{
+        display: flex;
+        flex-direction: column;
+     }
+     .boy-img-reverse-main{
+        display: flex;
+        justify-content: center;
+     }
+     .boy-img-reverse1{
+        width: 320px;
+        height: 360px;
+     }
+     .boy-img-reverse{
+       width: 320px;
+       height: 420px;
+     }
+     .main-parent-line-text{
+        max-width: 450px;
+        margin: auto;
+        padding-left: 0%;
+        padding-right:0% ;
+        position: relative;
+     }
+     .parent-section5{
+        padding-top:65px ;
+    }
+    .stars{
+        width: 130px;
+        height: 16px;
+        padding-top: 9px;
+    }
+    .darrel{
+        font-size: 25px;
+    }
+    .darrel-stars{
+        gap: 70px;
+    }
+    .darrel-ceo-star-txt{
+        padding-top: 25px;
+        padding-bottom: 24px;
+        padding-left: 20px;
+    }
+    .ceo{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    .star-parragraph{
+        font-size: 11px;
+        max-width: 350px;
+        padding-top: 28px;
+        line-height: 13px;
+    }
+     .people-arrow{
+        padding-top: 340px;
+        justify-content: center;
+        gap: 0px;
+     }
+     .people{
+        padding-left: 0%;
+     }
+     .dots{
+        display: none;
+     }
+
+     
+    /**/
+    .section1-parent{
+        height: 810px;
+    }
+    .main-section1{
+        max-width: 470px;
+        margin: auto;
+    }
+    .centre-points{
+        display: none;
+    }
+    .hitmarker-logo{
+        width: 160px;
+        height: 25px;
+    }
+    .font{
+        font-size: 12px;
+    }
+    .font-sub{
+        font-size: 13px;
+    }
+    .login-account{
+        gap: 10px;
+    }
+    .main-header{
+        padding-top: 25px;
+    }
+/**/
+.text-img1{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+} 
+.sec1-text{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gaming-esport{
+    text-align: center;
+    font-size: 40px;
+    max-width: 400px;
+}
+.active-user{
+    display: none;
+}
+.boy-img{
+    display: none;
+}
+.view-job{
+    font-size: 16px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.play-button{
+    width: 41px;
+    height: 41px;
+    padding-top: 2px;
+}
+.button-watch{
+    padding-left:14px;
+    gap: 8px;
+}
+.watch-video{
+    padding-top: 13px;
+    font-size: 13px;
+}
+.job-play-button{
+    gap: 2px;
+    padding-top: 36px;
+}
+.boy-img2{
+    display: block;
+    width: 280px;
+    height: 340px;
+    display: block;
+    padding-top:40px ;
+    margin: 0%;
+    align-items: center;
+}
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 103px;
+}
+.amazon-images{
+    width: 430px;
+    height: 30px;
+    padding: 20px;
+}
+/**/
+.parent-box1{
+    margin: auto;
+    max-width: 450px;
+    display: grid;
+    grid-template-columns: 450px;
+    grid-template-rows: 200px 200px 200px 200px 200px;
+    grid-column-gap: 20px;
+}
+.promote-text{
+    font-size: 9px;
+}
+.promote-head{
+    font-size: 30px;
+}
+.hrline{
+    width:420px;
+    text-align:left;
+    margin-left:0
+}
+.social-germany-box{
+padding-top: 35px;
+}
+.parent-promote{
+    padding-top: 60px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 455px;
+    padding-top: 35px;
+}
+.promot-tag{
+    padding: 15px;
+}
+.promot-head{
+    font-size: 19px;
+    font-weight: 400;
+}
+.promot-text{
+    padding-top: 8px;
+    font-size: 9px;
+}
+.arrow{
+    width: 30px;
+    height: 30px;
+    padding: 4px;
+}
+}
+@media screen and (max-width:500px) {
+           /*sECTIOn 7*/
+           .parent-section7{
+            max-width: 310px;
+            margin: auto;
+            padding-top: 40px;
+        }
+        .footer{
+            text-align: center;
+            font-size: 14px;
+            font-family: 'Roboto', sans-serif;
+            color: gray;
+        }
+    /*section6*/
+    .section6-parent{
+        padding-top: 25px;
+        max-width: 350;
+    }
+    .section6-centre-headings{
+        gap: 45px;
+        line-height: 16px;
+    }
+    .discover{
+        font-size: 18px;
+    }
+    .play-store-logo{
+        width: 17px;
+        height: 20px;
+        padding-top: 3px;
+    }
+    .play-store{
+        border-radius: 20px;
+        padding: 3px;
+        padding-left: 12px;
+    }
+    .get-it-on{
+        font-size: 6px;
+
+    }
+    .available-on{
+        font-size: 7px;
+    }
+    .google-play-text{
+        font-size: 9px;
+    }
+    .apple-logo{
+        width: 17px;
+        height: 16px;
+        padding-top: 6px;
+    }
+    .apple-google{
+        display: grid;
+        grid-template-columns: 90px 90px;
+        grid-gap: 7px;
+    }
+    .logo-text{
+        padding-left: 4px;
+        padding-top: 3px;
+    }
+    .apple-logo-head{
+        width: 6px;
+        height: 6px;
+        padding-bottom: 13px;
+        padding-left: 9px;
+    }
+    .fb-logo{
+        width: 14px;
+        height: 14px;
+        padding: 12px;
+        border:1px solid #FF6810;
+        border-radius: 28px;
+    }
+    .insta-logo{
+        width: 18px;
+        height: 18px;
+        background: #FF6810;
+        padding: 12px;
+        border-radius: 30px;
+    }
+    .twitter-logo{
+        width: 15px;
+        height: 13px;
+        padding: 12px;
+        border:1px solid #FF6810;
+        border-radius: 30px;
+    }
+    .logo-images{
+        gap: 8px;
+        padding-top: 15px;
+        justify-content: center;
+        }
+   
+    
+    /*section 5*/
+         .boy-img-reverse1{
+            width: 240px;
+            height: 280px;
+         }
+         .boy-img-reverse{
+           width: 240px;
+           height: 340px;
+         }
+         .boy-img-revers2{
+            width: 55px;
+            height: 55px;
+            padding-top: 31px;
+            padding-left: 163px;
+        }
+        .main-parent-line-text{
+            max-width:370px;
+        }
+        .vertical-line{
+            height: 167px;
+        }
+        .stars{
+            width: 90px;
+            height: 14px;
+            padding-top: 10px;
+        }
+        .darrel{
+            font-size: 18px;
+        }
+        .darrel-stars{
+            gap: 70px;
+        }
+        .darrel-ceo-star-txt{
+            padding-top: 20px;
+            padding-bottom: 18px;
+            padding-left: 16px;
+        }
+        .ceo{
+            font-size: 12px;
+            padding-top: 8px;
+        }
+        .star-parragraph{
+            font-size: 9px;
+            max-width: 280px;
+            padding-top: 24px;
+            line-height: 12px;
+        }
+         .people-arrow{
+            padding-top: 270px;
+            justify-content: center;
+            gap: px;
+
+         }
+         .parent-arrows{
+            gap: 5px;
+            padding-top: 1px;
+        }
+         .arr-left{
+            width: 30px;
+            height: 31px;
+            border-radius: 80px;
+        }
+        .arr-right{
+            width: 18px;
+            height: 18px;
+            background: orangered;
+            padding: 6px;
+            border-radius: 30px;
+        }
+         .people{
+            font-size: 12px;
+            padding-top: 8px;
+            padding-right: 60px;
+         }
+         .parent-section5{
+            padding-top:50px ;
+        }
+    
+    .section1-parent{
+        height: 570px;
+    }
+    .main-section1{
+        max-width: 380px;
+        margin: auto;
+    }
+    .hitmarker-logo{
+        width: 110px;
+        height: 17px;
+    }
+    .font{
+        font-size: 9px;
+    }
+    .font-sub{
+        font-size: 9px;
+    }
+    .login-account{
+        gap: 8px;
+    }
+    .account-button{
+        padding: 5px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .main-header{
+        padding-top: 20px;
+    }
+/**/
+.sec1-text{
+    padding-top: 10px;
+}
+.gaming-esport{
+    font-size: 24px;
+    max-width: 250px;
+}
+.view-job{
+    font-size: 11px;
+    padding: 11px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.play-button{
+    width: 30px;
+    height: 30px;
+    padding-top: 1px;
+}
+.button-watch{
+    padding-left:10px;
+    gap: 4px;
+}
+.watch-video{
+    padding-top: 9px;
+    font-size: 10px;
+}
+.job-play-button{
+    gap: 2px;
+    padding-top: 28px;
+}
+.boy-img2{
+    display: block;
+    width: 180px;
+    height: 220px;
+    display: block;
+    padding-top:40px ;
+    margin: 0%;
+    align-items: center;
+} 
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 70px;
+}
+.amazon-images{
+    width: 330px;
+    height: 25px;
+    padding: 20px;
+} 
+/**/
+.parent-box1{
+    margin: auto;
+    max-width: 370px;
+    display: grid;
+    grid-template-columns: 360px;
+    grid-template-rows: 200px 200px 200px 200px 200px;
+    grid-column-gap: 20px;
+}
+.promote-text{
+    font-size: 9px;
+    max-width: 300px;
+}
+.promote-head{
+    font-size: 24px;
+}
+.hrline{
+    width:330px;
+    text-align:left;
+    margin-left:0
+}
+.social-germany-box{
+    padding-top: 30px;
+    }
+    .parent-promote{
+        padding-top: 30px;
+    }  
+    .promote-text{
+padding-top: 10px;
+    }
+/*Section 3*/
+.section3-parent{
+    max-width: 365px;
+    padding-top: 18px;
+    padding-right: 4px;
+}
+.promot-tag{
+    padding: 3px;
+}
+.promot-head{
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 14px;
+    padding-left: 8px;
+}
+.promot-text{
+    display: none;
+}
+.arrow{
+    width: 33px;
+    height: 33px;
+}
+  
+.arrow-main{
+    padding-right: 4px;
+    }
+}
+@media screen and (max-width:420px) {
+           /*sECTIOn 7*/
+           .parent-section7{
+            max-width: 230px;
+            margin: auto;
+            padding-top: 20px;
+        }
+        .footer{
+            text-align: center;
+            font-size: 11px;
+            font-family: 'Roboto', sans-serif;
+            color: gray;
+        }
+    /*section6*/
+        .section6-parent{
+            padding-top: 15px;
+            max-width: 350;
+        }
+        .section6-headings-txt{
+           font-size: 14px;
+        }
+        .section6-centre-headings{
+            gap: 25px;
+            line-height: 12px;
+        }
+        .sec6{
+            font-size: 10px;
+        }
+        .discover{
+            font-size: 16px;
+        }
+        .play-store-logo{
+            width: 14px;
+            height: 17px;
+            padding-top: 3px;
+        }
+        .play-store{
+            border-radius: 20px;
+            padding: 3px;
+            padding-left: 8px;
+        }
+        .get-it-on{
+            font-size: 6px;
+    
+        }
+        .available-on{
+            font-size: 7px;
+        }
+        .google-play-text{
+            font-size: 8px;
+        }
+        .apple-logo{
+            width: 15px;
+            height: 14px;
+            padding-top: 6px;
+        }
+        .apple-google{
+            display: grid;
+            grid-template-columns: 85px 85px;
+            grid-gap: 5px;
+        }
+        .logo-text{
+            padding-left: 3px;
+            padding-top: 3px;
+        }
+        .apple-logo-head{
+            width: 5px;
+            height: 6px;
+            padding-bottom: 11px;
+            padding-left: 7px;
+        }
+        .fb-logo{
+            width: 14px;
+            height: 14px;
+            padding: 12px;
+            border:1px solid #FF6810;
+            border-radius: 28px;
+        }
+        .insta-logo{
+            width: 18px;
+            height: 18px;
+            background: #FF6810;
+            padding: 12px;
+            border-radius: 30px;
+        }
+        .twitter-logo{
+            width: 15px;
+            height: 13px;
+            padding: 12px;
+            border:1px solid #FF6810;
+            border-radius: 30px;
+        }
+        .logo-images{
+            gap: 8px;
+            padding-top: 13px;
+            justify-content: center;
+            } 
+    
+    /*section 5*/
+     .boy-img-reverse1{
+        width: 180px;
+        height: 220px;
+     }
+     .boy-img-reverse{
+       width: 180px;
+       height: 280px;
+     }
+     .boy-img-revers2{
+        width: 35px;
+        height: 45px;
+        padding-top: 35px;
+        padding-left: 125px;
+    }
+    .main-parent-line-text{
+        max-width:280px;
+    }
+    .vertical-line{
+        height: 147px;
+    }
+    .stars{
+        width: 60px;
+        height: 10px;
+        padding-top: 8px;
+    }
+    .darrel{
+        font-size: 14px;
+    }
+    .darrel-stars{
+        gap: 50px;
+    }
+    .darrel-ceo-star-txt{
+        padding-top: 10px;
+        padding-bottom: 12px;
+        padding-left: 12px;
+    }
+    .ceo{
+        font-size: 9px;
+        padding-top: 6px;
+    }
+    .star-parragraph{
+        font-size: 9px;
+        max-width: 210px;
+        padding-top: 18px;
+        line-height: 9px;
+    }
+     .people-arrow{
+        padding-top: 210px;
+        justify-content: center;
+        gap: px;
+
+     }
+     .parent-arrows{
+        gap: 2px;
+        padding-top: 1px;
+    }
+     .arr-left{
+        width: 24px;
+        height: 25px;
+        border-radius: 80px;
+    }
+    .arr-right{
+        width: 12px;
+        height: 12px;
+        background: orangered;
+        padding: 6px;
+        border-radius: 30px;
+    }
+     .people{
+        font-size: 10px;
+        padding-top: 6px;
+        padding-right: 35px;
+     }
+     .parent-section5{
+        padding-top:50px ;
+    }
+    
+    .parent-section5{
+        padding-top:10px ;
+    }
+/**/
+    .section1-parent{
+        height: 545px;
+    }
+    .main-section1{
+        max-width: 280px;
+        margin: auto;
+    }
+    .hitmarker-logo{
+        width: 90px;
+        height: 17px;
+    }
+    .font{
+        font-size: 9px;
+    }
+    .font-sub{
+        font-size: 9px;
+    }
+    .login-account{
+        gap: 5px;
+    }
+    .account-button{
+        padding: 4px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .main-header{
+        padding-top: 18px;
+    }
+/*section 2 amazon*/
+.amazon-main{
+    padding-top: 55px;
+}
+.amazon-images{
+    width: 240px;
+    height: 15px;
+    padding: 20px;
+} 
+ 
+/**/
+.parent-box1{
+    margin: auto;
+    max-width: 280px;
+    display: grid;
+    grid-template-columns: 280px;
+    grid-template-rows: 200px 200px 200px 200px 200px;
+    grid-column-gap: 20px;
+}
+.promote-text{
+    font-size: 8px;
+    max-width: 220px;
+    padding-top: 10px;
+}
+.promote-head{
+    font-size: 16px;
+}
+.hrline{
+    width:250px;
+    text-align:left;
+    margin-left:0
+}
+.social-germany-box{
+padding-top: 20px;
+}  
+.social-video{
+    font-size: 16px;
+}
+.pipeline-text{
+    font-size: 15px;
+}
+/*Section 3*/
+.section3-parent{
+    max-width: 280px;
+    padding-top: 13px;
+}
+.promot-tag{
+    padding: 2px;
+}
+.promot-head{
+    font-size: 17px;
+    padding-top: 14px;
+    padding-left: 8px;
+    font-weight: 200;
+}
+.arrow{
+    width: 30px;
+    height: 30px;
+}  
+.arrow-main{
+padding-right: 4px;
+}
+}
